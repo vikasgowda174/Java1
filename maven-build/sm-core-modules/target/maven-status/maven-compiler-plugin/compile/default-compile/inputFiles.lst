@@ -1,0 +1,14 @@
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/Encryption.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/IntegrationException.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteWeightItem.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/Packaging.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuoteModule.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/payment/model/PaymentModule.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuotePrePostProcessModule.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesRegion.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/constants/Constants.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesConfiguration.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/Module.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/order/total/OrderTotalPostProcessorModule.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteItem.java
+/var/lib/jenkins/workspace/maven-build/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/GeoLocation.java
