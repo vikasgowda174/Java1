@@ -1,0 +1,14 @@
+com/salesmanager/core/modules/order/total/OrderTotalPostProcessorModule.class
+com/salesmanager/core/modules/integration/shipping/model/ShippingQuoteModule.class
+com/salesmanager/core/modules/integration/IntegrationException.class
+com/salesmanager/core/modules/integration/shipping/model/Packaging.class
+com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteWeightItem.class
+com/salesmanager/core/modules/integration/shipping/model/ShippingQuotePrePostProcessModule.class
+com/salesmanager/core/modules/utils/Encryption.class
+com/salesmanager/core/modules/constants/Constants.class
+com/salesmanager/core/modules/Module.class
+com/salesmanager/core/modules/integration/payment/model/PaymentModule.class
+com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesRegion.class
+com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesConfiguration.class
+com/salesmanager/core/modules/utils/GeoLocation.class
+com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteItem.class
