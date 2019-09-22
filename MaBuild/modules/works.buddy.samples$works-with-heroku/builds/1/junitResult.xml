@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.28">
+  <suites>
+    <suite>
+      <file>/var/lib/jenkins/jobs/MaBuild/workspace/target/surefire-reports/TEST-works.buddy.samples.WorksWithHerokuServletTest.xml</file>
+      <name>works.buddy.samples.WorksWithHerokuServletTest</name>
+      <duration>0.34</duration>
+      <time>0.34</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>0.34</duration>
+          <className>works.buddy.samples.WorksWithHerokuServletTest</className>
+          <testName>testDoGet</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.34</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>
